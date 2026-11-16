@@ -33,10 +33,11 @@ I'm a **Top Rated Plus** freelancer on Upwork.
 
 ### 📂 Featured projects
 
-All projects use **synthetic data** and re-run automatically on GitHub Actions, so every table and chart can be reproduced.
+Most projects use **synthetic data** and re-run automatically on GitHub Actions, so every table and chart can be reproduced. The Freelancer.com study uses real public data.
 
 | Project | Methods |
 |---|---|
+| [freelancer-project-status](https://github.com/alex-sukhoi/freelancer-project-status) | Open-data study: ~100,000 Freelancer.com projects collected via the public API — 76% of 2026 Data Analysis projects closed with no freelancer hired |
 | [cb-sem-full-validation](https://github.com/alex-sukhoi/cb-sem-full-validation) | Covariance-based SEM with full validation: CFA, reliability, AVE, HTMT, common-method bias, measurement invariance, bootstrapped mediation |
 | [scale-validation-cfa](https://github.com/alex-sukhoi/scale-validation-cfa) | Questionnaire validation: ordinal CFA (WLSMV), rule-based item refinement with audit trail, Mplus syntax |
 | [pls-sem-app-experience-loyalty](https://github.com/alex-sukhoi/pls-sem-app-experience-loyalty) | PLS-SEM (SEMinR): mediation, PLSpredict, multigroup analysis |
