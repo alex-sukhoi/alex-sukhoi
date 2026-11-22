@@ -4,7 +4,7 @@
 
 I turn messy research and business data into clear, defensible answers. Over 20 years I've worked on
 statistical modelling, psychometrics, and analytics for academic, clinical, and business clients.
-I'm a **Top Rated Plus** freelancer on Upwork.
+I'm a **Top Rated Plus** freelancer on Upwork and co-author of peer-reviewed papers on population mental health.
 
 ---
 
@@ -53,13 +53,25 @@ Most projects use **synthetic data** and re-run automatically on GitHub Actions,
 
 ### 💼 Background
 
+- **Freelance Research Statistician, Sapien Labs – Global Mind Project (2021–present):** statistical analysis of mind health survey data from millions of respondents across 80+ countries; statistical validation of the Mental Health Quotient (MHQ), including youth and cross-language (21 languages) versions; proposals on analysis methodology and data presentation
 - **Lead Data Analyst, Breuer Capital (2020):** built an equity investment risk model and volatility measurement
 - **Methodology consultant:** supported PhD candidates in economics and sociology with study design and analysis
 - **Teacher and tutor in mathematics and physics**
 
+### 📄 Selected publications
+
+- Newson, J. J., Sukhoi, O., & Thiagarajan, T. C. (2024). MHQ: constructing an aggregate metric of population mental wellbeing. *Population Health Metrics*, 22, 16. [doi](https://doi.org/10.1186/s12963-024-00336-y)
+- Bala, J., Sukhoi, O., Newson, J. J., Machado, P. P., Lawrence, M., & Thiagarajan, T. C. (2025). Estimation of the nature and magnitude of mental distress in the population associated with ultra-processed food consumption. *Frontiers in Nutrition*, 12, 1562286. [doi](https://doi.org/10.3389/fnut.2025.1562286)
+- Taylor, J., Sukhoi, O., Newson, J. J., & Thiagarajan, T. C. (2026). Global Mind Project data in the United States: A comparison with national statistics. *International Journal of Population Data Science*, 11(1). [doi](https://doi.org/10.23889/ijpds.v11i1.3148)
+- Sukhoi, O., & Thiagarajan, T. C. (2026). Validation of the Youth Mental Health Quotient (Youth MHQ). Preprint, PsyArXiv. [osf.io/nk2dg](https://osf.io/nk2dg)
+
+Full list on [Google Scholar](https://scholar.google.com/citations?user=43OiPK4AAAAJ&hl=en) and [OSF](https://osf.io/fvdnp/).
+
 ### 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksii-sukhoi-4b60161a7)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=43OiPK4AAAAJ&hl=en)
+[![OSF](https://img.shields.io/badge/OSF-2C3E50?style=flat&logo=osf&logoColor=white)](https://osf.io/fvdnp/)
 [![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/oleksii.sukhoi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alex.suhoy@gmail.com)
 
