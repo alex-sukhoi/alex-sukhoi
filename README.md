@@ -48,6 +48,7 @@ Most projects use **synthetic data** and re-run automatically on GitHub Actions,
 | [power-analysis-toolkit](https://github.com/alex-sukhoi/power-analysis-toolkit) | Sample size and power: closed-form and simulation-based, clustered designs |
 | [lookalike-audience-evaluation](https://github.com/alex-sukhoi/lookalike-audience-evaluation) | Python: evaluating lookalike audiences without labels (recall, lift, similarity by audience size) |
 | [functions_R_mhq_analysis](https://github.com/alex-sukhoi/functions_R_mhq_analysis) | R data-cleaning pipeline for multi-country survey data |
+| [powerbi-portfolio](https://github.com/alex-sukhoi/powerbi-portfolio) | Power BI: A/B test with statistical tests in DAX, business performance, churn & cohort retention, global health |
 | [Tableau Public dashboards](https://public.tableau.com/app/profile/oleksii.sukhoi) | Business Performance and Churn Management dashboards |
 
 ### 💼 Background
